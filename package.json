@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "my first grunt-project example",
   "repository": "https://github.com/lilaijun/grunt-first",
+  "homepage": "http://lilaijun.github.io/grunt-first/",
   "author": {
     "name": "lilaijun",
     "email": "977257492@qq.com",
